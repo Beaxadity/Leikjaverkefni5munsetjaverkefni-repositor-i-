@@ -1,2 +1,2 @@
 # Leikjaforritunar verk 5
-![](myndir/Quiz%201.png)
+![](https://github.com/Beaxadity/Leikjaverkefni5munsetjaverkefni-repositor-i-/blob/master/Myndir/Quiz%201.PNG)
